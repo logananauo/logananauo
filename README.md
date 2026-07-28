@@ -4,10 +4,10 @@ I am a geoscientist interested in using satellite and in-situ data to solve comp
 </div>
 <br>
 
-[The South Pole Ice Cores - Antarctica: Exploring relationships between variables and building predictive models](https://github.com/logananauo/SPC14_icecore)
+The South Pole Ice Cores - Antarctica: Exploring relationships between variables and building predictive models [Click Here](https://github.com/logananauo/SPC14_icecore)
 <br>
 
-[Predicting Temperature and Snowfall at Many Glacier and Flattop Mtn - Glacier National Park, Montana](https://github.com/logananauo/GNP_SNOTELs)
+Predicting Temperature and Snowfall at Many Glacier and Flattop Mtn - Glacier National Park, Montana [Click Here](https://github.com/logananauo/GNP_SNOTELs)
 <br>
 
-[Exploring Temperature and Relative Humidity Values from a Data Logger Deployed on the Antarctic Plateau](https://github.com/logananauo/apsrht_DataLogger)
+Exploring Temperature and Relative Humidity Values from a Data Logger Deployed on the Antarctic Plateau [Click Here](https://github.com/logananauo/apsrht_DataLogger)
